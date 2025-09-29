@@ -117,6 +117,7 @@ pip-wheel-metadata
 
 # Textual
 snapshot_report.html
+<<<<<<< HEAD
 
 work/
 .nextflow/
