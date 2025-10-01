@@ -1,0 +1,17 @@
+sample,fastq_1,fastq_2,strandedness
+SRR23195516,fetch_out/fastq/SRX19144486_SRR23195516_1.fastq.gz,fetch_out/fastq/SRX19144486_SRR23195516_2.fastq.gz,auto
+SRR23195511,fetch_out/fastq/SRX19144488_SRR23195511_1.fastq.gz,fetch_out/fastq/SRX19144488_SRR23195511_2.fastq.gz,auto
+SRR23195517,,,auto
+SRR23195505,,,auto
+SRR23195508,,,auto
+SRR23195519,,,auto
+SRR23195509,,,auto
+SRR23195514,,,auto
+SRR23195510,,,auto
+SRR23195512,,,auto
+SRR23195520,,,auto
+SRR23195506,,,auto
+SRR23195518,,,auto
+SRR23195507,,,auto
+SRR23195513,,,auto
+SRR23195515,,,auto
